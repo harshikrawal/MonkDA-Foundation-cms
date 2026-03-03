@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "real-estate-blogs",
+  "info": {
+    "singularName": "real-estate-blog",
+    "pluralName": "real-estate-blogs",
+    "displayName": "Real Estate Blog"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": false
+    }
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title",
+      "required": true
+    },
+    "content": {
+      "type": "blocks"
+    }
+  }
+}
