@@ -802,7 +802,7 @@ const GYM_FOOTER_COLS = [
       { label: "About MonkDA", href: "#" },
       { label: "Athletic Journal", href: "#" },
       { label: "Network Elite", href: "#partners" },
-      { label: "Contact", href: "#optimization-form" },
+      { label: "Contact", href: "https://www.monkda.com/contact" },
     ],
   },
 ];

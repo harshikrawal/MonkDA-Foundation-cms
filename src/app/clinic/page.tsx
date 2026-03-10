@@ -827,7 +827,7 @@ const CLINIC_FOOTER_COLS = [
       { label: "About MonkDA", href: "#" },
       { label: "Medical Journal", href: "#" },
       { label: "HIPAA Security", href: "#security" },
-      { label: "Contact", href: "#optimization-form" },
+      { label: "Contact", href: "https://www.monkda.com/contact" },
     ],
   },
 ];

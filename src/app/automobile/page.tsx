@@ -1105,7 +1105,7 @@ const AUTO_FOOTER_COLS = [
       { label: "About MonkDA", href: "#" },
       { label: "Technical Journal", href: "#journal" },
       { label: "Security", href: "#security" },
-      { label: "Contact", href: "#optimization-form" },
+      { label: "Contact", href: "https://www.monkda.com/contact" },
     ],
   },
 ];

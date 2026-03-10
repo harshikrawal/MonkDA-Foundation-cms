@@ -33,7 +33,7 @@ const DEFAULT_COLS: FooterCol[] = [
       { label: "About MonkDA", href: "#" },
       { label: "Careers", href: "#" },
       { label: "Press", href: "#" },
-      { label: "Contact", href: "#contact" },
+      { label: "Contact", href: "https://www.monkda.com/contact" },
     ],
   },
   {

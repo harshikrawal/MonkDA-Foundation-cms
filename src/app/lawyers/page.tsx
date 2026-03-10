@@ -462,7 +462,7 @@ const LAW_FOOTER_COLS = [
       { label: "About MonkDA", href: "#" },
       { label: "Legal Insights", href: "#" },
       { label: "Privacy Policy", href: "#" },
-      { label: "Contact", href: "#optimization-form" },
+      { label: "Contact", href: "https://www.monkda.com/contact" },
     ],
   },
 ];

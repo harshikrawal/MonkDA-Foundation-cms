@@ -23,7 +23,7 @@ const DEFAULT_LINKS: NavLink[] = [
   { label: "Results", href: "#results" },
   { label: "Testimonials", href: "#testimonials" },
   { label: "Insights", href: "#blog" },
-  { label: "Contact", href: "#contact" },
+  { label: "Contact", href: "https://www.monkda.com/contact" },
 ];
 
 export default function Navbar({
