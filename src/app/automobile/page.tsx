@@ -278,10 +278,10 @@ function Hero() {
         </div>
       </div>
 
-      <div className="ap-scroll-hint">
+      {/* <div className="ap-scroll-hint">
         <span className="ap-scroll-line" />
         <span className="ap-scroll-label">Scroll</span>
-      </div>
+      </div> */}
     </section>
   );
 }

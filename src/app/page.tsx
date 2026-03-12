@@ -152,10 +152,10 @@ function Hero() {
         </div>
       </div>
 
-      <div className="re-scroll-hint">
+      {/* <div className="re-scroll-hint">
         <span className="re-scroll-line" />
         <span className="re-scroll-label">Scroll</span>
-      </div>
+      </div> */}
     </section>
   );
 }
@@ -261,7 +261,7 @@ function ProcessSection() {
                 </div>
                 <p className="re-service-desc" style={{ color: "rgba(255,255,255,0.5)" }}>{svc.desc}</p>
               </div>
-              <div className="re-service-visual" style={{ background: \`linear-gradient(135deg, hsl(\${220+i*15}, 30%, 12%), #0a0a0a)\` }}>
+              <div className="re-service-visual" style={{ background: `linear-gradient(135deg, hsl(${220+i*15}, 30%, 12%), #0a0a0a)` }}>
                  <div className="re-service-visual-content">
                     <span className="re-service-num">0{i + 1}</span>
                     <span className="re-service-visual-label">{svc.title}</span>
